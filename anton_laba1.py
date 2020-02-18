@@ -9,3 +9,7 @@ for i in range(N):
         even.append(i)
 print("Array: ", arr)
 print('Last Even Element Index: ', even[-1])
+
+print(TabError)
+print(str)
+property(issubclass)
