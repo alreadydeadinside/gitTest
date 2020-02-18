@@ -1,0 +1,26 @@
+import turtle
+t = turtle.Pen()
+while t!=10:
+    t.goto(10,10)
+    t.forward(100)
+    t.left(90)
+    t.forward(100)
+    t.left(90)
+    t.forward(100)
+    t.left(90)
+    t.forward(100)
+    t.left(90)
+    t.forward(100)
+    t.penup
+    t.goto(0,0)
+    t.pendown
+    t.forward(20)
+    t.left(90)
+    t.forward(20)
+    t.left(90)
+    t.forward(20)
+    t.left(90)
+    t.forward(20)
+    t.left(90)
+    t.forward(20)
+input("")
