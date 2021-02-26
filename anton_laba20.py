@@ -14,6 +14,3 @@ def randomize(i):
         print(i, i+1)
 
 randomize(i)
-dasdasda
-sadadasda
-`asdasdasdasd`
